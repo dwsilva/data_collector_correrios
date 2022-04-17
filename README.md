@@ -51,11 +51,13 @@ Baixar o projeto em um diretório de sua máquina:
 OBS: Todos os comando abaixo devem ser executados por um terminal do seu Sistema Operacinal
 ```
 
-* Clone da branch main
+* Clone do respositório
 
     ```
-    git clone https://github.com/dwsilva/data_collector_correrios.git
+    git clone --branch versao_inicial https://github.com/dwsilva/data_collector_correrios.git
     ```
+* Alterar para branch versao_inicial
+
 * Instalar as libs necessárias onde o clone foi realizado:
 
     ```
